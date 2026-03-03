@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Write launch recap",
+    "description": "Draft a short internal summary of the product launch.",
+    "status": "open",
+    "priority": "high",
+    "created_at": "2026-02-25T16:00:00+00:00",
+    "completed_at": null
+  },
+  {
+    "id": 2,
+    "title": "Fix login redirect",
+    "description": "Resolve the redirect loop after the OAuth callback.",
+    "status": "done",
+    "priority": "high",
+    "created_at": "2026-02-20T14:30:00+00:00",
+    "completed_at": "2026-02-21T09:15:00+00:00"
+  },
+  {
+    "id": 3,
+    "title": "Plan workshop agenda",
+    "description": "Outline topics for the partner onboarding session.",
+    "status": "open",
+    "priority": "medium",
+    "created_at": "2026-02-27T11:45:00+00:00",
+    "completed_at": null
+  },
+  {
+    "id": 4,
+    "title": "Archive weekly report",
+    "description": "Move the final report into the shared archive folder.",
+    "status": "open",
+    "priority": "low",
+    "created_at": "2026-03-01T08:20:00+00:00",
+    "completed_at": null
+  }
+]
